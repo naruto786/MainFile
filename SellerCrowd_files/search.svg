@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14px"
+   height="14px"
+   viewBox="0 0 14 14"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="search_large.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>search</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="16.857143"
+     inkscape:cx="7"
+     inkscape:cy="7"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">search</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <g
+     id="Sign-Up-/-Onboard"
+     transform="matrix(-1,0,0,1,14.000037,0)"
+     style="fill:none;stroke:none">
+    <g
+       id="Edit-Topics---Search-3"
+       transform="translate(-693,-380)"
+       style="fill:#2f3035">
+      <g
+         id="Overlay_Search-3"
+         transform="translate(258,220)">
+        <g
+           id="tggle"
+           transform="translate(21,127)">
+          <path
+             d="m 422.75002,32.999963 c -2.90047,0 -5.25001,2.349543 -5.25001,5.250014 0,1.03704 0.29167,1.993061 0.81019,2.803248 l -3.96992,3.953714 c -0.45371,0.453705 -0.45371,1.199077 0,1.652782 C 414.56713,46.886574 414.8588,47 415.16667,47 c 0.29167,0 0.59954,-0.113426 0.82639,-0.340279 l 3.95371,-3.969918 c 0.81019,0.51852 1.76621,0.810188 2.80325,0.810188 2.90047,0 5.25002,-2.349543 5.25002,-5.250014 0,-2.900471 -2.34955,-5.250014 -5.25002,-5.250014 z m 0,8.750023 c -1.92824,0 -3.50001,-1.571763 -3.50001,-3.500009 0,-1.928246 1.57177,-3.500009 3.50001,-3.500009 1.92825,0 3.50001,1.571763 3.50001,3.500009 0,1.928246 -1.57176,3.500009 -3.50001,3.500009 z"
+             id="search"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
